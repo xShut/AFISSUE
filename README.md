@@ -1,7 +1,7 @@
 # AFISSUE
 
 # tutorial su come segnalare un problema per il server
-## aprire un issues
+## aprire un issues premendo qui : https://github.com/xShut/AFISSUE/issues
 - scrivere il nome del problema
 - item vnum se necessario
 - morph se necessario
